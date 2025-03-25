@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# npm dependency files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variable files (if you use .env)
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories and other temporary files
+dist/
+build/
+
+# Editor configuration files
+.vscode/
+.idea/
+
+# Test files (if you have a test directory with temporary files)
+test/
+
+# npm generated files
+package-lock.json
+yarn.lock
