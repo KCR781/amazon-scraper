@@ -73,6 +73,7 @@ amazon-scraper/
 │   ├── styles.css            # Basic CSS styling for the page
 │
 └── package.json              # Main project dependencies and scripts
+```
 
 ### Key Features
 
@@ -84,4 +85,4 @@ amazon-scraper/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
