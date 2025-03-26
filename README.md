@@ -16,7 +16,7 @@ This project is an Amazon product scraper that fetches product details like titl
 
 ### Prerequisites
 
-1. **Node.js**: Ensure that Node.js is installed on your system. You can check by running:
+1. **Node.js**: Ensure that Node.js is installed on your system. You can check by running the following command on your CMD:
     ```bash
     node -v
     ```
