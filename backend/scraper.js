@@ -2,7 +2,7 @@ const axios = require("axios");
 const { JSDOM } = require("jsdom");
 
 async function scrapeAmazon(keyword) {
-    // Corrected the URL to use template literals and variable interpolation properly
+    
     const url = `https://www.amazon.com/s?k=${encodeURIComponent(keyword)}&ref=nb_sb_noss`;
 
     try {
